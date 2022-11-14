@@ -1,6 +1,6 @@
  <h1><b><i>Data Structures & Algorithms</i></b><img src="https://i.imgur.com/YTvlmjv.png" height=40px></h1> 
  <br>
-<img src="https://i.imgur.com/OsHj2uw.gif"> 
+<img src="https://imgur.com/OsHj2uw.gif"> 
 <!-- <img src="https://i.imgur.com/wZ2fx8S.gif" height=4px width=100%> -->
 <br><br><b>
 A data structure is a named location that can be used to store and organize data. And, an algorithm is a collection of steps to solve a particular problem. Learning data structures and algorithms allow us to write efficient and optimized computer programs.<br><br>
