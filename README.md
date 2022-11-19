@@ -64,8 +64,8 @@ This repo has divided into two main categories that covers:-
 
 # Challenges <img src="https://i.imgur.com/LUIqtKt.gif" height=50px>
 
-<!-- ## Practice_Set_1_Arrays
- <img src="https://i.imgur.com/NybLemT.gif" height=40px> -->
+## Practice_Set_1_Arrays
+ <img src="https://i.imgur.com/NybLemT.gif" height=40px>
 
 <!-- | Programs                                           |Discription                             |
 |----------------------------------------------------|----------------------------------------|

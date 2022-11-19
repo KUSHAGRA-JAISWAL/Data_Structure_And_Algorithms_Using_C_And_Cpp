@@ -59,7 +59,7 @@ int main()
     // initalizing an array with different method
 
     int B[6] = {2, 4, 5, 6, 10, 12};
-    // index    0 1 2 3  4 5
+    // index    0  1  2  3  4   5
 
     cout << "The size of an array B is: " << sizeof(B) << endl;
 
