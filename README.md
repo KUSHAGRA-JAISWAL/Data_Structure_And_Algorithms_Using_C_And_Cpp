@@ -89,8 +89,7 @@ This repo has divided into two main categories that covers:-
 
 | Programs                                           |Discription                             |
 |----------------------------------------------------|----------------------------------------|
-|1. **[user_input_array.c:](Practice_Sets/Arrays/user_input_array.cpp)**| Practice Problem to take input from user as Size of and array as well as number of elements of an array and display each element
-using loops using C and Cpp.| 
+|1. **[user_input_array.c:](Practice_Sets/Arrays/user_input_array.cpp)**| Practice Problem to take input from user as Size of and array as well as number of elements of an array and display each element using loops using C and Cpp.| 
 <br>
 
 # Testing Section <!--  <img src="https://i.imgur.com/ARXvPUn.gif"  height=45px> -->
