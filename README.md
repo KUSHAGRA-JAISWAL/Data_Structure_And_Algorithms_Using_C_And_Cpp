@@ -57,7 +57,27 @@ This repo has divided into two main categories that covers:-
 
 | Programs                                           |Discription                             |
 |----------------------------------------------------|----------------------------------------|
-|1. **[arrays_basics.cpp:](Learnings/Arrays_Basics/arrays_basics.cpp)**| Program to understand the concepts of Arrays in C & Cpp.|
+|1. **[arrays_basics.cpp:](Learnings/Arrays/arrays_basics.cpp)**| Program to understand the concepts of Arrays in C & Cpp.|
+
+<br>
+
+## Section_2_Structures
+ <!-- <img src="https://i.imgur.com/NybLemT.gif" height=40px> -->
+
+| Programs                                           |Discription                             |
+|----------------------------------------------------|----------------------------------------|
+|1. **[structures_basics.cpp:](Learnings/Structures/structures_basics.cpp)**| Program to understand the concepts of Structures in C & Cpp.|
+
+<br>
+
+## Section_3_Pointers
+ <!-- <img src="https://i.imgur.com/NybLemT.gif" height=40px> -->
+
+| Programs                                           |Discription                             |
+|----------------------------------------------------|----------------------------------------|
+|1. **[pointers_basics.cpp:](Learnings/Pointers/pointers_basics.cpp)**| Program to understand the concepts of Pointers in C & Cpp.|
+|2. **[pointer_of_array.cpp:](Learnings/Pointers/pointer_of_array.cpp)**| Program to understand the concepts of Pointer of an Array in C & Cpp.|
+|3. **[array_in_heap.cpp:](Learnings/Pointers/array_in_heap.cpp)**| Program to understand the concepts of Creating Array in Heap in C & Cpp.|
 
 <br>
 
@@ -67,10 +87,20 @@ This repo has divided into two main categories that covers:-
 ## Practice_Set_1_Arrays
  <img src="https://i.imgur.com/NybLemT.gif" height=40px>
 
-<!-- | Programs                                           |Discription                             |
+| Programs                                           |Discription                             |
 |----------------------------------------------------|----------------------------------------|
-|1. **[area_of_reactangle.c:](Challanges/Practice_Set_1_Variables_Constants_&_Keywords/area_of_reactangle.c)**| Write a Program to  -->
+|1. **[user_input_array.c:](Practice_Sets/Arrays/user_input_array.cpp)**| Practice Problem to take input from user as Size of and array as well as number of elements of an array and display each element
+using loops using C and Cpp.| 
 <br>
 
+# Testing Section <!--  <img src="https://i.imgur.com/ARXvPUn.gif"  height=45px> -->
+
+| Programs                                           |Discription                             |
+|----------------------------------------------------|----------------------------------------|
+|1. **[stack.cpp:](test_code/stack.cpp)**| Program to understand the concepts of stacks in C & Cpp.|
+|1. **[class_stack.cpp:](test_code/class_stack.cpp)**| Program to understand the concepts of stacks using class in C & Cpp.|
+|1. **[link_list.cpp:](test_code/link_list.cpp)**| Program to understand the concepts of Link List in C & Cpp.|
+
+<br>
 
 
