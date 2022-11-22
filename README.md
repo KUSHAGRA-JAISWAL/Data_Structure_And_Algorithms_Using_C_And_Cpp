@@ -97,8 +97,19 @@ This repo has divided into two main categories that covers:-
 | Programs                                           |Discription                             |
 |----------------------------------------------------|----------------------------------------|
 |1. **[stack.cpp:](test_code/stack.cpp)**| Program to understand the concepts of stacks in C & Cpp.|
-|1. **[class_stack.cpp:](test_code/class_stack.cpp)**| Program to understand the concepts of stacks using class in C & Cpp.|
-|1. **[link_list.cpp:](test_code/link_list.cpp)**| Program to understand the concepts of Link List in C & Cpp.|
+|2. **[class_stack.cpp:](test_code/class_stack.cpp)**| Program to understand the concepts of stacks using class in C & Cpp.|
+|3. **[link_list.cpp:](test_code/link_list.cpp)**| Program to understand the concepts of Link List in C & Cpp.|
+|4. **[create_display_link_list.cpp:](test_code/create_display_link_list.cpp)**| Program to understand the concepts of creating a display function to print Link List in C & Cpp.|
+|5. **[display_link_list_using_recursion.cpp:](test_code/display_link_list_using_recursion.cpp)**| Program to understand the concepts of printing Link List using recursion in C & Cpp.|
+|6. **[reverse_link_list_using_recursion.cpp:](test_code/reverse_link_list_using_recursion.cpp)**| Program to understand the concepts of reversing a Link List using recursion in C & Cpp.|
+|7. **[count_nodes_link_list.cpp:](test_code/count_nodes_link_list.cpp)**| Program to understand the concepts of counting the nodes of Link List in C & Cpp.|
+|8. **[count_nodes_link_list_recursion.cpp:](test_code/count_nodes_link_list_recursion.cpp)**| Program to understand the concepts of counting the nodes of Link List using recursion in C & Cpp.|
+|9. **[sum_element_link_list.cpp:](test_code/sum_element_link_list.cpp)**| Program to understand the concepts of calculating the sum of Link List in C & Cpp.|
+|10. **[sum_element_link_list_recursion.cpp:](test_code/sum_element_link_list_recursion.cpp)**| Program to understand the concepts of calculating the sum of Link List using recursion in C & Cpp.|
+|11. **[find_max_in_link_list.cpp:](test_code/find_max_in_link_list.cpp)**| Program to understand the concepts of finding the maximum value of Link List in C & Cpp.|
+|12. **[find_max_in_link_list_recursion.cpp:](test_code/find_max_in_link_list_recursion.cpp)**| Program to understand the concepts of finding the maximum value of Link List using recursion in C & Cpp.|
+|13. **[search_key_in_link_list.cpp:](test_code/search_key_in_link_list.cpp)**| Program to understand the concepts searching the element in Link List in C & Cpp.|
+|14. **[search_key_in_link_list_recursion.cpp:](test_code/search_key_in_link_list_recursion.cpp)**| Program to understand the concepts searching the element in Link List using recursion in C & Cpp.|
 
 <br>
 
