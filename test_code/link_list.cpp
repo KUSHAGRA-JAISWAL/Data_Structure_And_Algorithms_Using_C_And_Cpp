@@ -32,7 +32,7 @@ void display()
     
     while(t != NULL )
     {
-        cout<<t->data<<endl;
+        cout<<t->data<<" ";
         t = t ->next;
     }
 }
