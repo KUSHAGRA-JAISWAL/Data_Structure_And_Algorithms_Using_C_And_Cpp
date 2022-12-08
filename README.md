@@ -81,6 +81,18 @@ This repo has divided into two main categories that covers:-
 
 <br>
 
+## Section_4_Heaps
+ <!-- <img src="https://i.imgur.com/NybLemT.gif" height=40px> -->
+
+| Programs                                           |Discription                             |
+|----------------------------------------------------|----------------------------------------|
+|1. **[heap_basics.cpp:](Learnings/Heaps/heap_basics.cpp)**| Program to understand the concepts of Heaps in C & Cpp.|
+|2. **[max_heap_insertion.cpp:](Learnings/Heaps/max_heap_insertion.cpp)**| Program to understand the concepts of Insertion in MaX Heap in C & Cpp.|
+|3. **[max_heap_deletion.cpp:](Learnings/Heaps/max_heap_deletion.cpp)**| Program to understand the concepts of Deletion in MaX Heap in C & Cpp.|
+|4. **[heap_sort.cpp:](Learnings/Heaps/heap_sort.cpp)**| Program to understand the concepts Heap sort in C & Cpp.|
+
+<br>
+
 
 # Challenges <img src="https://i.imgur.com/LUIqtKt.gif" height=50px>
 
