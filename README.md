@@ -93,6 +93,16 @@ This repo has divided into two main categories that covers:-
 
 <br>
 
+## Section_5_Sortings
+ <!-- <img src="https://i.imgur.com/NybLemT.gif" height=40px> -->
+
+| Programs                                           |Discription                             |
+|----------------------------------------------------|----------------------------------------|
+|1. **[bubble_sort.cpp:](Learnings/Sortings/bubble_sort.cpp)**| Program to understand the concepts Bubble sort in C & Cpp.|
+|2. **[insertion_sort.cpp:](Learnings/Sortings/insertion_sort.cpp)**| Program to understand the concepts Insertion sort in C & Cpp.|
+
+<br>
+
 
 # Challenges <img src="https://i.imgur.com/LUIqtKt.gif" height=50px>
 
