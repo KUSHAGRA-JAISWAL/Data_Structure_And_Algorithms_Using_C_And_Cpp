@@ -100,6 +100,7 @@ This repo has divided into two main categories that covers:-
 |----------------------------------------------------|----------------------------------------|
 |1. **[bubble_sort.cpp:](Learnings/Sortings/bubble_sort.cpp)**| Program to understand the concepts Bubble sort in C & Cpp.|
 |2. **[insertion_sort.cpp:](Learnings/Sortings/insertion_sort.cpp)**| Program to understand the concepts Insertion sort in C & Cpp.|
+|3. **[selection_sort.cpp:](Learnings/Sortings/selection_sort.cpp)**| Program to understand the concepts Selection sort in C & Cpp. |
 
 <br>
 
