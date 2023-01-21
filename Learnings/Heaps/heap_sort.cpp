@@ -31,10 +31,9 @@ void insert(int a[], int n)
 int deletion(int a[], int n)
 // defination and declearation of a function
 {
-    int i, j, x, val, temp;
+    int i, j, val;
     // declearing variables
-
-    x = a[n];
+  
     val = a[1];
     a[1] = a[n];
     a[n] = val;
@@ -50,9 +49,7 @@ int deletion(int a[], int n)
 
         if (a[i] < a[j])
         {
-            temp = a[i];
-            a[i] = a[j];
-            a[j] = temp;
+            swap(a[i], a[j]);
             i = j;
             j = 2 * i;
         }

@@ -81,7 +81,41 @@ This repo has divided into two main categories that covers:-
 
 <br>
 
-## Section_4_Heaps
+## Section_4_Linklist
+ <!-- <img src="https://i.imgur.com/NybLemT.gif" height=40px> -->
+ ### Section_4.1_Singly_Linklist
+
+| Programs                                           |Discription                             |
+|----------------------------------------------------|----------------------------------------|
+|1. **[insertAtTail.cpp:](Learnings/Linklist/Singly_Linklist/insertAtTail.cpp)**| Program to understand how to insert the element at the end of singly linklist Using C and Cpp.|
+|2. **[insertAtHead.cpp:](Learnings/Linklist/Singly_Linklist/insertAtHead.cpp)**| Program to understand how to insert the element at the start of singly linklist Using C and Cpp. |
+|3. **[deletion_linklist.cpp:](Learnings/Linklist/Singly_Linklist/deletion_linklist.cpp)**| Program to understand how to delete the element in the singly linklist Using C and Cpp.|
+|4. **[reverse_linklist.cpp:](Learnings/Linklist/Singly_Linklist/reverse_linklist.cpp)**| Program to understand how to reverse the singly linklist Using C and Cpp.|
+|5. **[recursive_reverse_linklist.cpp:](Learnings/Linklist/Singly_Linklist/recursive_reverse_linklist.cpp)**| Program to understand how to reverse the singly linklist recursivly Using C and Cpp.|
+
+<br>
+
+ ### Section_4.2_Doubly_Linklist
+
+| Programs                                           |Discription                             |
+|----------------------------------------------------|----------------------------------------|
+|1. **[insertion_dbly_linklist.cpp:](Learnings/Linklist/Doubly_Linklist/insertion_dbly_linklist.cpp)**| Program to understand how to insert the element in doubly linklist Using C and Cpp.|
+|2. **[deletion_dbly_linklist.cpp:](Learnings/Linklist/Doubly_Linklist/deletion_dbly_linklist.cpp)**| Program to understand how to delete the element from doubly linklist Using C and Cpp.|
+|3. **[merge_sorted_list.cpp:](Learnings/Linklist/Doubly_Linklist/merge_sorted_list.cpp)**| Program to understand how to merge two link list in sorted order Using C and Cpp.|
+|4. **[merge_sorted_linklist_recursive.cpp:](Learnings/Linklist/Doubly_Linklist/merge_sorted_linklist_recursive.cpp)**| Program to understand how to merge two link list in sorted order recursively Using C and Cpp.|
+
+<br>
+
+### Section_4.3_Circular_Linklist
+
+| Programs                                           |Discription                             |
+|----------------------------------------------------|----------------------------------------|
+|1. **[insertion_crq_linklist.cpp:](Learnings/Linklist/circular_linklist/insertion_crq_linklist.cpp)**| Program to understand how to insert the element in circular linklist Using C and Cpp.|
+|2. **[deletion_crq_linklist.cpp:](Learnings/Linklist/circular_linklist/deletion_crq_linklist.cpp)**| Program to understand how to delete the element in circular linklist Using C and Cpp.|
+
+<br>
+
+## Section_5_Heaps
  <!-- <img src="https://i.imgur.com/NybLemT.gif" height=40px> -->
 
 | Programs                                           |Discription                             |
@@ -93,7 +127,7 @@ This repo has divided into two main categories that covers:-
 
 <br>
 
-## Section_5_Sortings
+## Section_6_Sortings
  <!-- <img src="https://i.imgur.com/NybLemT.gif" height=40px> -->
 
 | Programs                                           |Discription                             |
@@ -105,15 +139,26 @@ This repo has divided into two main categories that covers:-
 <br>
 
 
-<!-- # Challenges <img src="https://i.imgur.com/LUIqtKt.gif" height=50px>
+# Challenges <img src="https://i.imgur.com/LUIqtKt.gif" height=50px>
 
 ## Practice_Set_1_Arrays
- <img src="https://i.imgur.com/NybLemT.gif" height=40px>
 
 | Programs                                           |Discription                             |
 |----------------------------------------------------|----------------------------------------|
 |1. **[user_input_array.c:](Practice_Sets/Arrays/user_input_array.cpp)**| Practice Problem to take input from user as Size of and array as well as number of elements of an array and display each element using loops using C and Cpp.| 
-<br> -->
+
+<br>
+
+## Practice_Set_2_LinkList
+
+| Programs                                           |Discription                             |
+|----------------------------------------------------|----------------------------------------|
+|1. **[reverse_k_node.cpp:](Practice_Sets/Linklist/reverse_k_node.cpp)**| Program to understand how to reverse the link list in group of k using C and Cpp.| 
+|2. **[detect_remove_cycle_linklist.cpp:](Practice_Sets/Linklist/detect_remove_cycle_linklist.cpp)**| Program to understand how to detect and remove the cycle from linklist using C and Cpp.| 
+|3. **[intersection_linklist.cpp:](Practice_Sets/Linklist/intersection_linklist.cpp)**| Program to understand how to find that two link list are intersecting eachother using C and Cpp.| 
+|4. **[append_k_nodes.cpp:](Practice_Sets/Linklist/append_k_nodes.cpp)**| Program to understand how to append last k nodes of link list Using C and Cpp.| 
+
+<br>
 
 # Testing Section <!--  <img src="https://i.imgur.com/ARXvPUn.gif"  height=45px> -->
 
